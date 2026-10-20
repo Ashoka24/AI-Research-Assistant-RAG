@@ -1,1 +1,0 @@
-# The current version uses local TF-IDF retrieval only; no LLM dependency is required.
